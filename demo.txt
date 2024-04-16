@@ -1,0 +1,51 @@
+ <div class="container">
+        <table class="table table-bordered table-striped">
+            <thead class="table-primary">
+                <tr>
+                    <th>Serial Number</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Address</th>
+                    <th>Km from Pune Station</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td><a href="sinhagad.html" target="_blank">Sinhagad Fort</a></td>
+                    <td>Historical fort with scenic views</td>
+                    <td><a href="https://maps.app.goo.gl/yKwaW2jRgPq3wvPUA">Click for Map</a></td>
+                    <td>25</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td><a href="dagdushet.html" target="_blank">Shreemant Dagdushet Halwai Ganpati</a></td>
+                    <td>Famous Ganesh temple</td>
+                    <td><a href="https://maps.app.goo.gl/fRKHAgKaChMCF67H6">Click for Map</a></td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td><a href="agakhanpalace.html" target="_blank">Aga Khan Palace</a></td>
+                    <td>Historical palace with gardens</td>
+                    <td><a href="https://maps.app.goo.gl/VdKbBbxUWuc987tV7">Click for Map</a></td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td><a href="Ramdara.html" target="_blank">Ram Dara Temple</a></td>
+                    <td>Peaceful temple with scenic surroundings</td>
+                    <td><a href="https://maps.app.goo.gl/c84tqvMW8dBz6uMT7">Click for Map</a></td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td><a href="Chaturshringi Temple.html" target="_blank">Chaturshringi Temple</a></td>
+                    <td>Ancient temple atop a hill</td>
+                    <td><a href="https://maps.app.goo.gl/yKwaW2jRgPq3wvPUA">click for Map</a></td>
+                    <td>8</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div> 
